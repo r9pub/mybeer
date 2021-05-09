@@ -1,0 +1,19 @@
+    /* do-hyeon-regular - korean */
+    @font-face {
+      font-family: 'Do Hyeon';
+      font-style: normal;
+      font-weight: 400;
+      src: url('fonts/do-hyeon-v11-korean-regular.eot'); /* IE9 Compat Modes */
+      src: local(''),
+           url('fonts/do-hyeon-v11-korean-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+           url('fonts/do-hyeon-v11-korean-regular.woff2') format('woff2'), /* Super Modern Browsers */
+           url('fonts/do-hyeon-v11-korean-regular.woff') format('woff'), /* Modern Browsers */
+           url('fonts/do-hyeon-v11-korean-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+           url('fonts/do-hyeon-v11-korean-regular.svg#DoHyeon') format('svg'); /* Legacy iOS */
+    }
+    body {
+      background: linear-gradient(135deg, #fe2929, #ffb3c5);
+      background-color: #184e8e;
+      padding: 40px 20px 500px 20px;
+      font-family: 'Do Hyeon'
+    }
