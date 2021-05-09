@@ -12,7 +12,7 @@
            url('fonts/do-hyeon-v11-korean-regular.svg#DoHyeon') format('svg'); /* Legacy iOS */
     }
     body {
-      background: linear-gradient(135deg, #fe2929, #ffb3c5);
+      background: linear-gradient(135deg, #36D1DC, #5B86E5);
       background-color: #184e8e;
       padding: 40px 20px;
       font-family: 'Do Hyeon'
